@@ -7,7 +7,7 @@ export const perfil: Perfil = {
   frase:
     'Eu testo software para ele quebrar comigo, e não com o usuário. Automação com Cypress e Playwright, e desenvolvimento Web e Mobile de ponta a ponta.',
   email: 'matheusfahl1@hotmail.com',
-  linkedin: 'https://www.linkedin.com/in/matheus-fahlfernandes',
+  linkedin: 'https://www.linkedin.com/in/matheus-fahl-fernandes/',
   github: 'https://github.com/MaisUmMatheus',
   curriculo: '/curriculo-matheus-fahl.pdf',
   terminal: [
